@@ -1,6 +1,0 @@
-{
-  "name":"kawan-belajar",
-  "private":true,
-  "type":"module",
-  "scripts":{"dev":"node scripts/serve.mjs","test":"node --test tests/*.test.mjs","check":"node scripts/check-content.mjs"}
-}
